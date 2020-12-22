@@ -1,0 +1,22 @@
+﻿  sfml_lab3.cpp
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(27): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(64): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(65): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(75): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(83): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(155): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(157): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(174): warning C4305: =: усечение из "double" в "float"
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(175): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(182): warning C4305: =: усечение из "double" в "float"
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(183): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(190): warning C4305: =: усечение из "double" в "float"
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(191): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(199): warning C4305: =: усечение из "double" в "float"
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(200): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\anast\source\repos\sfml_lab3\sfml_lab3\sfml_lab3.cpp(227): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  sfml_lab3.vcxproj -> C:\Users\anast\source\repos\sfml_lab3\Debug\sfml_lab3.exe
